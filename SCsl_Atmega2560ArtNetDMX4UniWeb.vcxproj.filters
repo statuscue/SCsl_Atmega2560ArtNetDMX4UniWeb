@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="SCsl_Atmega2560ArtNetDMX4UniWeb.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.SCsl_Atmega2560ArtNetDMX4UniWeb.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
