@@ -27,7 +27,6 @@ Global
 		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{61cc5993-604b-489e-a98d-cb1274903423}*SharedItemsImports = 9
 		..\SClb_Arduino_DMXEthernet\SClb_Arduino_DMXEthernet.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		..\SClb_ArtNetNode1\SClb_ArtNetNode1.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
-		..\SClb_Atmega2560_DMXUART_C0\SClb_Atmega2560_DMXUART_C0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C1\SClb_Atmega2560_DMXUART_C1.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C2\SClb_Atmega2560_DMXUART_C2.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		..\SClb_Atmega2560_DMXUART_C3\SClb_Atmega2560_DMXUART_C3.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4

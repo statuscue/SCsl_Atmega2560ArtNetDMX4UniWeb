@@ -16,6 +16,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="SCsl_Atmega2560ArtNetDMX4UniWeb.ino" />
+    <None Include="SC_common.ino" />
+    <None Include="SC_EEPROM.ino" />
+    <None Include="SC_Ethernet.ino" />
+    <None Include="SC_InitArtNet.ino" />
+    <None Include="SC_InitUARTDMX.ino" />
+    <None Include="SC_SendUARTDMX.ino" />
+    <None Include="SC_hardware.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.SCsl_Atmega2560ArtNetDMX4UniWeb.vsarduino.h">
